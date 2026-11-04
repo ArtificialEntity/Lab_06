@@ -17,7 +17,7 @@
 - **if (has)** - если имеется **digit**, то происходит один вывод, если нет, то трудой.
 7. Конец.
 ### Блок-схема:
-![diagram]()
+![diagram](https://github.com/ArtificialEntity/Lab_06/blob/main/Lab_06_Diagram.png)
 ## 2. Реализация программы
 ```﻿c
 #define _CRT_SECURE_NO_WARNINGS
